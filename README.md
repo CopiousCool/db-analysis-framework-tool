@@ -1,6 +1,6 @@
 # db-analysis-framework-tool
 
-Unified tool set to help DBA's perform associated tasks in data 
+Unified tool set to help DBA's perform associated tasks in Data Analysis
 
 # Identify 
 the business question you’d like to answer. What problem is the company trying to solve? What do you need to measure, and how will you measure it? 
